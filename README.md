@@ -1,10 +1,10 @@
 # Itau_Processo_Seletivo
 
 1. [Motivação](#Motivação) 
-2. [Objectivos](#Objetivos)
+2. [Objetivos](#Objetivos)
 3. [Diagramas](#Diagramas)
     - [Fluxo Inicial](#FluxoInicial)
-    - [Fluxo Provisorio](#FluxoProvisorio)
+    - [Fluxo Provisório](#FluxoProvisório)
 4. [Solução](#Solução)
 
 ## Motivação
@@ -23,7 +23,7 @@ Quais foram os nossos objetivos?
 
 <image alt="flow diagram" src="Fluxos atuais.png" />
 
-### FluxoProvisorio
+### FluxoProvisório
 
 #### Sugestão provisória de fluxo
 
