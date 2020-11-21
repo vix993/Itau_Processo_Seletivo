@@ -8,4 +8,4 @@
 
 #### Sugestão provisória de fluxo
 
-<iframe style="border:none" width="800" height="450" src="https://whimsical.com/embed/EpcgaNnVLeYA1iATS7THqK"></iframe>
+<image alt="flow-provisorio" src="flow-provisorio.png" />
