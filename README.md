@@ -8,4 +8,4 @@
 
 #### Sugestão provisória de fluxo
 
-<image alt="flow-provisorio" src="untitled@1.25x.png" />
+<image alt="flow-provisorio" src="flow-provisorio.png" />
