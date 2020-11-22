@@ -1,0 +1,7 @@
+•	Duplicação das informações dos clientes, produtos, contratações e cancelamentos de serviços;
+•	Canal Mobile não tem acesso aos novos produtos;
+•	O canal Web e o Client buscam informações em sistemas diferentes, e isto pode ocasionar em uma divergência nas informações sobre os produtos;
+•	Como o Sistema A (Distribuído) tem uma rotina de atualização diária em ”control  + m” terá momentos que o sistema Distribuído acaba ficando defasado;
+•	Hoje o fluxo das informações está muito centralizado no mainframe, como ele é um sistema que não está atualizado em relação as suas tecnologias, isso acaba “engessando” os outros procedimentos;
+•	As telas do cliente/server são criadas com campo fixo, isso traz uma rigidez na apresentação das informações nesse canal;
+•	As informações que são inseridas através do sistema A (Distribuído) como por exemplo validade do produto, em nenhum momento é repassado estas informações para o sistema  B (mainframe);
