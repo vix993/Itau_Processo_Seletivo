@@ -42,4 +42,3 @@ O WAS é uma plataforma baseada em Java, desenvolvida pela IBM para genrenciar e
 
 - Permite clusterização assimétrica, onde o particionamento do cluster é feito de maneira a determinar um cluster específico para tarefas que, nele, seriam melhor executadas, por questão de segurança ou desempenho, por exemplo.
 
-
