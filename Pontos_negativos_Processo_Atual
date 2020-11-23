@@ -5,3 +5,8 @@
 •	Hoje o fluxo das informações está muito centralizado no mainframe, como ele é um sistema que não está atualizado em relação as suas tecnologias, isso acaba “engessando” os outros procedimentos;
 •	As telas do cliente/server são criadas com campo fixo, isso traz uma rigidez na apresentação das informações nesse canal;
 •	As informações que são inseridas através do sistema A (Distribuído) como por exemplo validade do produto, em nenhum momento é repassado estas informações para o sistema  B (mainframe);
+•	O cadastro de produtos é feito em dois sistemas diferentes, impedindo que modificações e implementação de novas funcionalidades seja dificuldade, e permitindo que haja duplicação de produtos, entre outros problemas.
+•	O prazo máximo disponibilização da oferta ao cliente, a partir da idealização/cadastro do produto, é muito longo.
+•	O Sistema C (WebSphere) trabalha em back-level (significando que ele é desatualizado, e provavelmente não conta mais com suporte oficial da IBM). Devido às suas características, poderia ser utilizado como ponto central de cadastro de produtos e clientes, permitindo ainda acesso à contratação/cancelmento via web diretamente pelo cliente.
+
+
