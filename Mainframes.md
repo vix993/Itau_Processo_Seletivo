@@ -25,3 +25,4 @@ As principais características que mantém mainframes em uso são:
 - **Escalabilidade:** O negócio bancário envolve milhões de clientes e transações. Mainframes oferecem quantidades enormes de poder de processameto, permitindo suportar cenários de uso dinâmicos.
 
 - **Integração:** Mainframes são arquitetados de maneira a trabalhar com partes independentes e interligadas. Qualquer problema em uma delas permite sua substituição sem afetar o restante do sistema, sem desligamento.
+
