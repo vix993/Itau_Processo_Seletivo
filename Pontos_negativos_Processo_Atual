@@ -1,12 +1,9 @@
-•	Duplicação das informações dos clientes, produtos, contratações e cancelamentos de serviços;
-•	Canal Mobile não tem acesso aos novos produtos;
-•	O canal Web e o Client buscam informações em sistemas diferentes, e isto pode ocasionar em uma divergência nas informações sobre os produtos;
-•	Como o Sistema A (Distribuído) tem uma rotina de atualização diária em ”control  + m” terá momentos que o sistema Distribuído acaba ficando defasado;
-•	Hoje o fluxo das informações está muito centralizado no mainframe, como ele é um sistema que não está atualizado em relação as suas tecnologias, isso acaba “engessando” os outros procedimentos;
-•	As telas do cliente/server são criadas com campo fixo, isso traz uma rigidez na apresentação das informações nesse canal;
-•	As informações que são inseridas através do sistema A (Distribuído) como por exemplo validade do produto, em nenhum momento é repassado estas informações para o sistema  B (mainframe);
-•	O cadastro de produtos é feito em dois sistemas diferentes, impedindo que modificações e implementação de novas funcionalidades seja dificuldade, e permitindo que haja duplicação de produtos, entre outros problemas.
-•	O prazo máximo disponibilização da oferta ao cliente, a partir da idealização/cadastro do produto, é muito longo.
-•	O Sistema C (WebSphere) trabalha em back-level (significando que ele é desatualizado, e provavelmente não conta mais com suporte oficial da IBM). Devido às suas características, poderia ser utilizado como ponto central de cadastro de produtos e clientes, permitindo ainda acesso à contratação/cancelmento via web diretamente pelo cliente.
+•	Como a rotina de contratação/cancelamento de produtos é hosteada pelo mainframe dificulta a integração com canais adicionais como por exemplo o mobile;
+• O cadastro de produtos em dois sistemas diferentes permite a inconsistência de informações duplicadas e diminui a flexibilidade com relação aos parametros de novos produtos;
+•	Canal Mobile não tem acesso à oferta de novos produtos;
+•	Como o Sistema A (Distribuído) tem uma rotina de atualização diária dos dados de contratação/cancelamento dos produtos em sua base de dados, havera momentos que a informação ficara defasada, o que pode impactar nas validações e nas geração de relatorios gerenciais/analiticos;
+•	As telas do cliente/server são criadas com campos fixos, isso impede maior parametrização, dinamismo e agilidade na oferta de produtos;
+•	(O prazo máximo disponibilização da oferta ao cliente, a partir da idealização/cadastro do produto, é muito longo.)
+•	O Sistema C (WebSphere) trabalha em back-level (significando que ele é desatualizado, e provavelmente não conta mais com suporte oficial da IBM).
 
 
