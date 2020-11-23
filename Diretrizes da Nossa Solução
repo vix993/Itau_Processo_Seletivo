@@ -1,0 +1,5 @@
+* Entendemos que faria mais sentido o cadastro dos novos produtos acontecerem todos através do sistema A(Distribuida) pois como é o canal mais atualizado em relação as tecnologias   utilizadas, isso daria uma maior flexibilidade para criação de novos produtos.
+
+* Realizariamos uma atualização do Websphere para que o mesmo não atuasse mais em backlevel;
+
+* Chegamos a conclusão que o mobile não conseguiria se integrar diretamente com o mainframe, por este motivo decidimos que o mobile será integrado ao sistema atráves do websphere.   Além do mobile, realizaremos a integração também do web e do cliente/server através do websphere.
