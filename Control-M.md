@@ -11,7 +11,3 @@
 - Apresenta alta disponibilidade através de clusterização
 
 - Permite análise predictiva do resultados de jobs, facilitando o trabalho de recuperação em casos de falhas, o que também resulta em menores custos de operação.
-
-
-
-
