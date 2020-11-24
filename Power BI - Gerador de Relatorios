@@ -1,0 +1,61 @@
+Power BI
+
+O Microsoft Power BI é a ferramenta de Business Intelligence da Microsoft. Com ela é possível consolidar, tornar coerentes e visuais as informações que se encontram em diversas fontes, desde uma simples pasta de trabalho do Microsoft Excel, a arquivos localizados na nuvem. 
+Essa ferramenta é uma coleção de serviços de software, aplicativos e conectores que trabalham juntos para transformar suas fontes de dados não relacionadas em informações coerentes, visualmente envolventes e interativas.
+Além disso, ela também possibilita o fácil acesso e compartilhamento dessas informações.
+O Power BI pode ser usado de forma simples para pequenos trabalhos no Excel e banco de dados local, ou até mesmo para grandes e robustos trabalhos a nível empresarial.
+Com esta ferramenta é possível gerar uma visão de 360 graus com suas métricas mais importantes em um só lugar, atualizadas em tempo real.
+
+Principais Pontos Positivos 
+•	Power BI é muito barato ou até mesmo grátis;
+•	Existem comunidades de Power BI, em que qualquer um pode se cadastrar, criar um tópico e/ou votar num tópico existente tirando dúvidas;
+•	Nessa ferramenta, é possível criar relatórios interativos e painéis personalizados;
+•	Os relatórios criados no Power BI podem ser exportados para o PowerPoint, o que facilita bastante se você gosta de usar essa ferramenta para apresentações em reuniões ou eventos semelhantes;
+•	Com o Power BI você consegue se conectar a uma página da Web através do seu link de acesso, importar os dados tabulados e criar indicadores mostrando os dados de forma muito mais prática.
+
+Planos do Power BI
+Power BI Free (versão gratuita)
+O programa realiza todas as análises, porém não permite o compartilhamento de relatórios. Assim, essa modalidade não é recomendada para as organizações, atendendo melhor a estudantes, usuários individuais ou micro e pequenas empresas.
+Power BI Pro
+Essa modalidade permite que os usuários construam e publiquem conteúdo e compartilhem dashboards e relatórios. A licença possibilita também o acesso ao Power BI por dispositivos mobile, como smartphones e tablets.
+Power BI Premium
+A contratação do serviço não ocorre por usuário, e sim pelo servidor. Por causa disso, o contratante não paga pelo acesso, mas dimensiona a capacidade da instalação conforme o volume de dados e colaboradores que utilizam a ferramenta.
+A versão Premium, portanto, permite a distribuição de conteúdo entre membros da equipe sem precisar adquirir a licença para cada um dos usuários; por isso, é bastante utilizada para grandes equipes.
+
+
+Pergunta e Respostas Relevantes
+
+•	QUAIS SÃO OS COMPONENTES PRINCIPAIS DO POWER BI?
+R: O Power BI é formado por um conjunto de componentes que permite ao usuário a análise das informações. Confira os principais:
+serviço na nuvem: possibilita que o usuário consulte e analise dados com velocidade e eficiência a partir de qualquer dispositivo;
+desktop: ferramenta de desenvolvimento do Power BI ou para análise sob demanda. Permite criar relatórios e construir análises avançadas, conecta dados locais ou na nuvem;
+aplicativo: desenvolvido para iOS, Android e Windows, o app dá acesso ao Power BI em tablets e smartphones;
+gateway: realiza a comunicação entre os dados do Power BI na nuvem e as fontes de informações nos servidores locais. Assim, quando o usuário solicita uma atualização de informações, o Power BI ativa o gateway, que acessa os dados da empresa e os carrega para a nuvem, por meio de uma conexão criptografada.
+
+•	QUAIS SÃO AS FONTES DE DADOS QUE O POWER BI PODE ACESSAR?
+R: O Power BI pode acessar fontes de dados locais, Big Data, planilhas de Excel, arquivos de texto e serviços em nuvem. Nessa ampla gama de fontes, estão incluídos os principais bancos de dados do mercado: SQL, Oracle, Teradata, DB2, MySQL e Postgre.
+Também há uma série de serviços online que já têm conexões ao Power BI, como Dynamics 365, Google Analytics, Salesforce, GitHub, MailChimp, Facebook, Zendesk, entre outros. Existe, além disso, a possibilidade de desenvolver um conector personalizado, sem custos adicionais.
+
+•	HÁ LIMITE PARA O TAMANHO DA BASE DE DADOS?
+R: Existem duas possibilidades. Na primeira, a empresa carrega o banco de dados para o Power BI. Nesse caso, há um limite, conforme demonstrado na tabela presente no início deste post.
+Já na segunda, o Power BI acessa as informações diretamente do banco de dados da empresa, sem copiá-las para a nuvem. Nessa situação, o limite de armazenamento é o do próprio servidor da empresa.
+
+•	QUAIS NAVEGADORES DÃO SUPORTE AO POWER BI?
+R: O Power BI é compatível com estes navegadores em todas as plataformas em que estão disponíveis:
+*Microsoft Edge
+
+*Internet Explorer 11. Não há suporte para alguns recursos avançados, como exibição de linhagem, no Internet Explorer. Confira o tópico Linhagem de dados (versão prévia) para ver detalhes.
+
+*Versão mais recente do Chrome para desktop
+
+*Versão mais recente do Safari para Mac
+
+*Última versão do Firefox para desktop. O Firefox pode alterar as fontes usadas no Power BI
+
+
+Links IMPORTANTES sobre Power:
+	VIDEO SOBRE O QUE É POWER BI:
+•	https://www.youtube.com/watch?v=NP0PJgcIDkY&ab_channel=HashtagTreinamentos
+
+INFORMAÇÕES SOBRE SEGURANÇA DO POWER BI:
+•	https://docs.microsoft.com/pt-br/power-bi/guidance/whitepaper-powerbi-security
