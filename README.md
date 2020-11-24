@@ -27,9 +27,9 @@ Quais foram os nossos objetivos?
 
 #### Sugestão provisória de fluxo
 
-[Edite o diagrama](https://whimsical.com/flow-provisorio-EpcgaNnVLeYA1iATS7THqK)
+[Edite o diagrama](https://whimsical.com/EaB7kKFpsiKaiRdWUTSwtM)
 
-<image alt="flow-provisorio" src="flow-provisorio@1.25x (1).png" />
+<image alt="flow-provisorio" src="untitled@1.25x (1).png" />
 
 ## Solução
 
