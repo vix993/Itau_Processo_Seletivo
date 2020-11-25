@@ -37,7 +37,7 @@ Esse projeto faz parte do Processo Seletivo da Itaú em parceria com a École 42
 #### Sugestão de Fluxo novo
 
 [Edite o diagrama](https://whimsical.com/EaB7kKFpsiKaiRdWUTSwtM)
-[Veja maior](imgs/untitled@1.25x (1).png)
+[Veja maior](https://github.com/vix993/Itau_Processo_Seletivo/blob/main/imgs/untitled%401.25x%20(1).png)
 
 <image alt="flow-provisorio" src="imgs/untitled@1.25x (1).png" />
 
