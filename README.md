@@ -18,6 +18,7 @@
     - [Cadastro de Novos Produtos](#CadastroDeNovosProdutos)
     - [Contratação de Produtos](#ContrataçãoDeProdutos)
     - [Disponibilização das Ofertas de Novos Produtos nos Diferentes Canais](#DisponibilizaçãoDeOfertas)
+    - [Conclusão](#Conclusão)
 
 ## Motivação
 
