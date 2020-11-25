@@ -34,7 +34,7 @@ Quais foram os nossos objetivos?
 
 #### Iniciamos o processo com o seguinte fluxo.
 
-<image alt="flow diagram" src="Fluxos atuais.png" />
+<image alt="flow diagram" src="imgs/Fluxos atuais.png" />
 
 ### FluxoProvisório
 
@@ -42,7 +42,7 @@ Quais foram os nossos objetivos?
 
 [Edite o diagrama](https://whimsical.com/EaB7kKFpsiKaiRdWUTSwtM)
 
-<image alt="flow-provisorio" src="untitled@1.25x (1).png" />
+<image alt="flow-provisorio" src="imgs/untitled@1.25x (1).png" />
 
 ## Estudos
 
