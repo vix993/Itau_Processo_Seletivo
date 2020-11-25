@@ -38,7 +38,7 @@ Esse projeto faz parte do Processo Seletivo da Itaú em parceria com a École 42
 
 [Edite o diagrama](https://whimsical.com/EaB7kKFpsiKaiRdWUTSwtM)
 
-<image alt="flow-provisorio" src="imgs/untitled@1.25x (1).png" height="400" width="auto" />
+<image alt="flow-provisorio" src="imgs/untitled@1.25x (1).png" />
 
 ## Estudos
 
