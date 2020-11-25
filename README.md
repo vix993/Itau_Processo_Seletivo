@@ -127,7 +127,7 @@ O WAS é uma plataforma baseada em Java, desenvolvida pela IBM para genrenciar e
 
 - Permite clusterização assimétrica, onde o particionamento do cluster é feito de maneira a determinar um cluster específico para tarefas que, nele, seriam melhor executadas, por questão de segurança ou desempenho, por exemplo.
 
-### Power BI
+### PowerBI
 
 O Microsoft Power BI é a ferramenta de Business Intelligence da Microsoft. Com ela é possível consolidar, tornar coerentes e visuais as informações que se encontram em diversas fontes, desde uma simples pasta de trabalho do Microsoft Excel, a arquivos localizados na nuvem. 
 Essa ferramenta é uma coleção de serviços de software, aplicativos e conectores que trabalham juntos para transformar suas fontes de dados não relacionadas em informações coerentes, visualmente envolventes e interativas.
