@@ -255,7 +255,7 @@ Com essa estrutura pronta podemos utilizar frameworks como React e React-Native 
 - Adaptamos o fluxo dos dados para evitar possíveis inconsisténcias.
 - Na medida do possível, inserimos tecnologias novas que ao nosso ver complementam a estrutura atual.
 - Encaramos como prioridade inserir o mobile como uma plataforma para receber de forma dinamicas as ofertas e novos produtos.
-- Atualizamos o Sistema C para seguir padrões do mercado.
+- Atualizamos o Websphere para sair do backlevel.
 
 ### CadastroDeNovosProdutos
 
@@ -273,6 +273,6 @@ Detalhamos no seguinte documento, como idealizamos o novo processo de disponibil
 
 Ao realizar essa atividade, notamos o quão complexo é mexer com um sistema da magnitude de uma instituição financeira. São muitas variáveis a considerar, como por exemplo, segurança, performance, e escalabilidade. Isso exige um conhecimento extenso dos envolvidos. Para cada componente do sistema, existe uma quantidade enorme de possibilidades e ferramentas. Cada combinação traz consigo um conjunto de vantagens e desvantagens.
 
-Mas com isso agente aprendeu muito, e concerteza é um conhecimento que usaremos mais vezes.
+Mas com isso a gente aprendeu muito, e com certeza é um conhecimento que usaremos mais vezes.
 
 #### *Obrigado!*
