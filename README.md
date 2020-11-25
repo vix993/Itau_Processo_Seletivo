@@ -3,7 +3,7 @@
 1. [Motivação](#Motivação) 
 2. [Objetivos](#Objetivos)
 3. [Diagramas](#Diagramas)
-    - [Cadastro de Novos Produtos](#CadastroDeNovos)
+    - [Cadastro de Novos Produtos](#CadastroDeNovosProdutos)
     - [Fluxo Inicial](#FluxoInicial)
     - [Fluxo Novo](#FluxoNovo)
 4. [Estudos](#Estudos)
