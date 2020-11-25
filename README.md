@@ -14,6 +14,7 @@
     - [JAX-RS](#JAX-RS)
     - [Control-M](#ControlM)
 10. [Soluções](#Soluções)
+    - [Conceito Inicial](#ConceitoInicial)
     - [Cadastro de Novos Produtos](#CadastroDeNovosProdutos)
     - [Contratação de Produtos](#ContrataçãoDeProdutos)
     - [Disponibilização das Ofertas de Novos Produtos nos Diferentes Canais](#DisponibilizaçãoDeOfertas)
@@ -243,6 +244,15 @@ Com essa estrutura pronta podemos utilizar frameworks como React e React-Native 
 - Permite análise predictiva do resultados de jobs, facilitando o trabalho de recuperação em casos de falhas, o que também resulta em menores custos de operação.
 
 ## Soluções
+
+### ConceitoInicial
+
+- De acordo com a proposta do pdf, nós entendemos que a melhor solução naquela situação seria a que trouxesse o menor impacto possível para a estrutura atual.
+- Tentamos extrair o melhor de cada tecnologia existente naquele momento.
+- Adaptamos o fluxo dos dados para evitar possíveis inconsisténcias.
+- Na medida do possível, inserimos tecnologias novas que ao nosso ver complementam a estrutura atual.
+- Encaramos como prioridade inserir o mobile como uma plataforma para receber de forma dinamicas as ofertas e novos produtos.
+- Atualizamos o backend para seguir padrões do mercado.
 
 ### CadastroDeNovosProdutos
 
