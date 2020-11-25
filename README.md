@@ -28,7 +28,7 @@ Esse projeto faz parte do Processo Seletivo da Itaú em parceria com a École 42
 
 ## Diagramas
 
-### CadastroDeProdutosNovos
+### CadastroDeNovosProdutos
 
 <image alt="New Products" src="proposta/Cadastro de Novos Produtos.png" />
 
