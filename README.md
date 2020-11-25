@@ -4,7 +4,7 @@
 2. [Objetivos](#Objetivos)
 3. [Diagramas](#Diagramas)
     - [Fluxo Inicial](#FluxoInicial)
-    - [Fluxo Provisório](#FluxoProvisório)
+    - [Fluxo Novo](#FluxoNovo)
 4. [Estudos](#Estudos)
     - [Pontos Negativos](#PontosNegativos)
     - [Mainframe](#Mainframe)
@@ -16,13 +16,9 @@
 
 ## Motivação
 
-Qual foi a nossa motivação para realizar esse projeto?
-
-Esse projeto faz parte do Processo Seletivo da Itaú em parceiria com o a École 42 São Paulo.
+Esse projeto faz parte do Processo Seletivo da Itaú em parceria com a École 42 São Paulo.
 
 ## Objetivos
-
-Quais foram os nossos objetivos?
 
 - Apresentar um relatório indicando os atuais problemas descritos no seguinte documento: [Requisitos](https://github.com/vix993/Itau_Processo_Seletivo/blob/main/Case%20-%20Escape%20Apresentac%CC%A7a%CC%83o.pdf)
 - Desenho técnico de uma proposta de melhoria e evolução, considerando todo o contexto descrito, fluxos atuais, tecnologias e ferramentas disponíveis no mercado.
@@ -36,9 +32,9 @@ Quais foram os nossos objetivos?
 
 <image alt="flow diagram" src="imgs/Fluxos atuais.png" />
 
-### FluxoProvisório
+### FluxoNovo
 
-#### Sugestão provisória de fluxo
+#### Sugestão de Fluxo novo
 
 [Edite o diagrama](https://whimsical.com/EaB7kKFpsiKaiRdWUTSwtM)
 
