@@ -1,4 +1,4 @@
-Power BI
+							Power BI
 
 O Microsoft Power BI é a ferramenta de Business Intelligence da Microsoft. Com ela é possível consolidar, tornar coerentes e visuais as informações que se encontram em diversas fontes, desde uma simples pasta de trabalho do Microsoft Excel, a arquivos localizados na nuvem. 
 Essa ferramenta é uma coleção de serviços de software, aplicativos e conectores que trabalham juntos para transformar suas fontes de dados não relacionadas em informações coerentes, visualmente envolventes e interativas.
@@ -6,14 +6,24 @@ Além disso, ela também possibilita o fácil acesso e compartilhamento dessas i
 O Power BI pode ser usado de forma simples para pequenos trabalhos no Excel e banco de dados local, ou até mesmo para grandes e robustos trabalhos a nível empresarial.
 Com esta ferramenta é possível gerar uma visão de 360 graus com suas métricas mais importantes em um só lugar, atualizadas em tempo real.
 
-Principais Pontos Positivos 
+							Principais Pontos Positivos 
 •	Power BI é muito barato ou até mesmo grátis;
 •	Existem comunidades de Power BI, em que qualquer um pode se cadastrar, criar um tópico e/ou votar num tópico existente tirando dúvidas;
 •	Nessa ferramenta, é possível criar relatórios interativos e painéis personalizados;
 •	Os relatórios criados no Power BI podem ser exportados para o PowerPoint, o que facilita bastante se você gosta de usar essa ferramenta para apresentações em reuniões ou eventos semelhantes;
 •	Com o Power BI você consegue se conectar a uma página da Web através do seu link de acesso, importar os dados tabulados e criar indicadores mostrando os dados de forma muito mais prática.
 
-Planos do Power BI
+							Requisitos Mínimos Para Desktop
+•	Windows 7 / Windows Server 2008 R2 ou posterior
+•	.NET 4.5
+•	Internet Explorer 10 ou posterior
+•	Memória (RAM): ao menos 1 GB disponível; recomendável 1,5 GB ou mais.
+•	Exibição: Pelo menos 1440 x 900 ou 1600 x 900 (16:9) é exigido. Resoluções mais baixas, como 1024 x 768 ou 1280 x 800, não têm suporte, pois determinados controles (como fechar a tela de inicialização) são exibidos além destas resoluções.
+•	Configurações de exibição do Windows: se as configurações de exibição forem definidas para alterar o tamanho do texto, dos aplicativos e de outros itens para mais de 100%, talvez você não consiga ver algumas caixas de diálogo com que precisa interagir para continuar usando o Power BI Desktop. Caso tenha esse problema, verifique as configurações de exibição no Windows acessando Configurações > Sistema > Exibição e use o controle deslizante para retornar as configurações de exibição para 100%.
+•	CPU: É recomendado um processador de 1 GHz (gigahertz) e x64 (64 bits).
+
+
+							Planos do Power BI
 Power BI Free (versão gratuita)
 O programa realiza todas as análises, porém não permite o compartilhamento de relatórios. Assim, essa modalidade não é recomendada para as organizações, atendendo melhor a estudantes, usuários individuais ou micro e pequenas empresas.
 Power BI Pro
@@ -23,7 +33,7 @@ A contratação do serviço não ocorre por usuário, e sim pelo servidor. Por c
 A versão Premium, portanto, permite a distribuição de conteúdo entre membros da equipe sem precisar adquirir a licença para cada um dos usuários; por isso, é bastante utilizada para grandes equipes.
 
 
-Pergunta e Respostas Relevantes
+							Pergunta e Respostas Relevantes
 
 •	QUAIS SÃO OS COMPONENTES PRINCIPAIS DO POWER BI?
 R: O Power BI é formado por um conjunto de componentes que permite ao usuário a análise das informações. Confira os principais:
@@ -53,9 +63,18 @@ R: O Power BI é compatível com estes navegadores em todas as plataformas em qu
 *Última versão do Firefox para desktop. O Firefox pode alterar as fontes usadas no Power BI
 
 
-Links IMPORTANTES sobre Power:
+							Links IMPORTANTES sobre Power:
 	VIDEO SOBRE O QUE É POWER BI:
 •	https://www.youtube.com/watch?v=NP0PJgcIDkY&ab_channel=HashtagTreinamentos
 
-INFORMAÇÕES SOBRE SEGURANÇA DO POWER BI:
+	INFORMAÇÕES SOBRE SEGURANÇA DO POWER BI:
 •	https://docs.microsoft.com/pt-br/power-bi/guidance/whitepaper-powerbi-security
+
+	CONECTANDO POWER BI COM UM LOCALHOST: 	
+•	https://www.opovo.com.br/noticias/tecnologia/2020/02/17/como-utilizar-um-banco-de-dados----localhost----no-power-bi-com-o-xampp.html#:~:text=No%20Power%20BI%2C%20vamos%20clicar,BI%20para%20que%20este%20funcione.
+
+
+	Conectando o Power BI Desktop em um banco de dados Microsoft SQL Server: 	
+•	https://www.youtube.com/watch?v=vFeSYrSE4aE&ab_channel=MauricioCassemiro
+
+
