@@ -1,5 +1,17 @@
 # Itau Processo Seletivo
 
+## Motivação
+
+Esse projeto faz parte do Processo Seletivo da Itaú em parceria com a École 42 São Paulo.
+
+## Objetivos
+
+- Apresentar um relatório indicando os atuais problemas descritos no seguinte documento: [Requisitos](https://github.com/vix993/Itau_Processo_Seletivo/blob/main/Case%20-%20Escape%20Apresentac%CC%A7a%CC%83o.pdf)
+- Desenho técnico de uma proposta de melhoria e evolução, considerando todo o contexto descrito, fluxos atuais, tecnologias e ferramentas disponíveis no mercado.
+- Sugestão de tecnologias e ferramentas que podem ser aplicadas no contexto.
+
+## Tabela de Conteúdos
+
 1. [Motivação](#Motivação) 
 2. [Objetivos](#Objetivos)
 3. [Diagramas](#Diagramas)
@@ -19,16 +31,6 @@
     - [Contratação de Produtos](#ContrataçãoDeProdutos)
     - [Disponibilização das Ofertas de Novos Produtos nos Diferentes Canais](#DisponibilizaçãoDeOfertas)
     - [Conclusão](#Conclusão)
-
-## Motivação
-
-Esse projeto faz parte do Processo Seletivo da Itaú em parceria com a École 42 São Paulo.
-
-## Objetivos
-
-- Apresentar um relatório indicando os atuais problemas descritos no seguinte documento: [Requisitos](https://github.com/vix993/Itau_Processo_Seletivo/blob/main/Case%20-%20Escape%20Apresentac%CC%A7a%CC%83o.pdf)
-- Desenho técnico de uma proposta de melhoria e evolução, considerando todo o contexto descrito, fluxos atuais, tecnologias e ferramentas disponíveis no mercado.
-- Sugestão de tecnologias e ferramentas que podem ser aplicadas no contexto.
 
 ## Diagramas
 
