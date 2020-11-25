@@ -3,6 +3,7 @@
 1. [Motivação](#Motivação) 
 2. [Objetivos](#Objetivos)
 3. [Diagramas](#Diagramas)
+    - [Cadastro de Novos Produtos](#CadastroDeNovos)
     - [Fluxo Inicial](#FluxoInicial)
     - [Fluxo Novo](#FluxoNovo)
 4. [Estudos](#Estudos)
@@ -27,6 +28,10 @@ Esse projeto faz parte do Processo Seletivo da Itaú em parceria com a École 42
 
 ## Diagramas
 
+### CadastroDeProdutosNovos
+
+<image alt="New Products" src="proposta/Cadastro de Novos Produtos.png" />
+
 ### FluxoInicial
 
 #### Iniciamos o processo com o seguinte fluxo.
@@ -35,7 +40,7 @@ Esse projeto faz parte do Processo Seletivo da Itaú em parceria com a École 42
 
 ### FluxoNovo
 
-#### Sugestão de Fluxo novo
+#### Sugestão de Fluxo novo do sistema
 
 [Edite o diagrama](https://whimsical.com/EaB7kKFpsiKaiRdWUTSwtM)
 
