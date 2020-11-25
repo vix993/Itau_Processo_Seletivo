@@ -3,8 +3,8 @@
 1. [Motivação](#Motivação) 
 2. [Objetivos](#Objetivos)
 3. [Diagramas](#Diagramas)
-    - [Fluxo Inicial](###Fluxo Inicial)
-    - [Fluxo Provisório](###Fluxo Provisório)
+    - [Fluxo Inicial](#FluxoInicial)
+    - [Fluxo Provisório](#FluxoProvisório)
 4. [Estudos](#Estudos)
     - [Pontos Negativos]()
 10. [Solução](#Solução)
@@ -25,13 +25,13 @@ Quais foram os nossos objetivos?
 
 ## Diagramas
 
-### Fluxo Inicial
+### FluxoInicial
 
 #### Iniciamos o processo com o seguinte fluxo.
 
 <image alt="flow diagram" src="Fluxos atuais.png" />
 
-### Fluxo Provisório
+### FluxoProvisório
 
 #### Sugestão provisória de fluxo
 
