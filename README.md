@@ -17,7 +17,13 @@ Esse projeto faz parte do Processo Seletivo da Itaú em parceria com a École 42
 3. [Diagramas](#Diagramas)
     - [Fluxo Inicial](#FluxoInicial)
     - [Fluxo Novo](#FluxoNovo)
-4. [Estudos](#Estudos)
+4. [Soluções](#Soluções)
+    - [Conceito Inicial](#ConceitoInicial)
+    - [Cadastro de Novos Produtos](#CadastroDeNovosProdutos)
+    - [Contratação de Produtos](#ContrataçãoDeProdutos)
+    - [Disponibilização das Ofertas de Novos Produtos nos Diferentes Canais](#DisponibilizaçãoDeOfertas)
+    - [Conclusão](#Conclusão)
+5. [Estudos](#Estudos)
     - [Pontos Negativos](#PontosNegativos)
     - [Mainframe](#Mainframe)
     - [IBM WebSphere](#IBMWebSphere)
@@ -25,12 +31,6 @@ Esse projeto faz parte do Processo Seletivo da Itaú em parceria com a École 42
     - [Power BI](#PowerBI)
     - [JAX-RS](#JAX-RS)
     - [Control-M](#ControlM)
-10. [Soluções](#Soluções)
-    - [Conceito Inicial](#ConceitoInicial)
-    - [Cadastro de Novos Produtos](#CadastroDeNovosProdutos)
-    - [Contratação de Produtos](#ContrataçãoDeProdutos)
-    - [Disponibilização das Ofertas de Novos Produtos nos Diferentes Canais](#DisponibilizaçãoDeOfertas)
-    - [Conclusão](#Conclusão)
 
 ## Diagramas
 
@@ -47,6 +47,37 @@ Esse projeto faz parte do Processo Seletivo da Itaú em parceria com a École 42
 [Edite o diagrama](https://whimsical.com/EaB7kKFpsiKaiRdWUTSwtM)
 
 <image alt="flow-provisorio" src="imgs/untitled@1.25x (1).png" />
+
+## Soluções
+
+### ConceitoInicial
+
+- De acordo com a proposta do pdf, nós entendemos que a melhor solução naquela situação seria a que trouxesse o menor impacto possível para a estrutura atual.
+- Tentamos extrair o melhor de cada tecnologia existente naquele momento.
+- Adaptamos o fluxo dos dados para evitar possíveis inconsisténcias.
+- Na medida do possível, inserimos tecnologias novas que ao nosso ver complementam a estrutura atual.
+- Encaramos como prioridade inserir o mobile como uma plataforma para receber de forma dinamicas as ofertas e novos produtos.
+- Atualizamos o Websphere para sair do backlevel.
+
+### CadastroDeNovosProdutos
+
+Detalhamos no seguinte documento, nossas reflexões sobre o atual sistema e como idealizamos o novo processo de cadastro de [novos produtos](https://github.com/vix993/Itau_Processo_Seletivo/blob/main/proposta/Cadastro%20de%20Novos%20Produtos.pdf).
+
+### ContrataçãoDeProdutos
+
+Detalhamos no seguinte documento, como idealizamos o novo processo de contratação de [produtos](https://github.com/vix993/Itau_Processo_Seletivo/blob/main/proposta/Contratacao%20dos%20produtos%20-%20fluxo%20atual%20e%20proposto.pdf).
+
+### DisponibilizaçãoDeOfertas
+
+Detalhamos no seguinte documento, como idealizamos o novo processo de disponibilização de [produtos e ofertas](https://github.com/vix993/Itau_Processo_Seletivo/blob/main/proposta/Disponibiliza%C3%A7%C3%A3o%20das%20Ofertas%20de%20Novos%20Produtos%20nos%20Diferentes%20Canais.pdf).
+
+### Conclusão
+
+Ao realizar essa atividade, notamos o quão complexo é mexer com um sistema da magnitude de uma instituição financeira. São muitas variáveis a considerar, como por exemplo, segurança, performance, e escalabilidade. Isso exige um conhecimento extenso dos envolvidos. Para cada componente do sistema, existe uma quantidade enorme de possibilidades e ferramentas. Cada combinação traz consigo um conjunto de vantagens e desvantagens.
+
+Mas com isso a gente aprendeu muito, e com certeza é um conhecimento que usaremos mais vezes.
+
+#### *Obrigado!*
 
 ## Estudos
 
@@ -245,34 +276,3 @@ Com essa estrutura pronta podemos utilizar frameworks como React e React-Native 
 - Apresenta alta disponibilidade através de clusterização
 
 - Permite análise predictiva do resultados de jobs, facilitando o trabalho de recuperação em casos de falhas, o que também resulta em menores custos de operação.
-
-## Soluções
-
-### ConceitoInicial
-
-- De acordo com a proposta do pdf, nós entendemos que a melhor solução naquela situação seria a que trouxesse o menor impacto possível para a estrutura atual.
-- Tentamos extrair o melhor de cada tecnologia existente naquele momento.
-- Adaptamos o fluxo dos dados para evitar possíveis inconsisténcias.
-- Na medida do possível, inserimos tecnologias novas que ao nosso ver complementam a estrutura atual.
-- Encaramos como prioridade inserir o mobile como uma plataforma para receber de forma dinamicas as ofertas e novos produtos.
-- Atualizamos o Websphere para sair do backlevel.
-
-### CadastroDeNovosProdutos
-
-Detalhamos no seguinte documento, nossas reflexões sobre o atual sistema e como idealizamos o novo processo de cadastro de [novos produtos](https://github.com/vix993/Itau_Processo_Seletivo/blob/main/proposta/Cadastro%20de%20Novos%20Produtos.pdf).
-
-### ContrataçãoDeProdutos
-
-Detalhamos no seguinte documento, como idealizamos o novo processo de contratação de [produtos](https://github.com/vix993/Itau_Processo_Seletivo/blob/main/proposta/Contratacao%20dos%20produtos%20-%20fluxo%20atual%20e%20proposto.pdf).
-
-### DisponibilizaçãoDeOfertas
-
-Detalhamos no seguinte documento, como idealizamos o novo processo de disponibilização de [produtos e ofertas](https://github.com/vix993/Itau_Processo_Seletivo/blob/main/proposta/Disponibiliza%C3%A7%C3%A3o%20das%20Ofertas%20de%20Novos%20Produtos%20nos%20Diferentes%20Canais.pdf).
-
-### Conclusão
-
-Ao realizar essa atividade, notamos o quão complexo é mexer com um sistema da magnitude de uma instituição financeira. São muitas variáveis a considerar, como por exemplo, segurança, performance, e escalabilidade. Isso exige um conhecimento extenso dos envolvidos. Para cada componente do sistema, existe uma quantidade enorme de possibilidades e ferramentas. Cada combinação traz consigo um conjunto de vantagens e desvantagens.
-
-Mas com isso a gente aprendeu muito, e com certeza é um conhecimento que usaremos mais vezes.
-
-#### *Obrigado!*
