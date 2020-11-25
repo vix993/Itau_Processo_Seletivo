@@ -9,6 +9,7 @@
     - [Pontos Negativos](#PontosNegativos)
     - [Mainframe](#Mainframe)
     - [IBM WebSphere](#IBMWebSphere)
+    - [IBM Infosphere Data Replication](#IBMInfosphereDataReplication)
     - [Power BI](#PowerBI)
     - [JAX-RS](#JAX-RS)
     - [Control-M](#ControlM)
@@ -125,6 +126,24 @@ O WAS é uma plataforma baseada em Java, desenvolvida pela IBM para genrenciar e
 - Aplicações são deployed usando arquivos, enviados pelo gerenciamento central para os servidores de aplicações do cluster, em diversos hosts diferentes. Isso é realizado pelo Deployment Manager (Dmgr)
 
 - Permite clusterização assimétrica, onde o particionamento do cluster é feito de maneira a determinar um cluster específico para tarefas que, nele, seriam melhor executadas, por questão de segurança ou desempenho, por exemplo.
+
+### IBMInfosphere Data Replication
+
+#### Replicação de dados
+
+Replicação de dados é o processo de armazenar dados em mais de um local. Copiar os mesmos dados de um banco de dados de um servidor para outro servidor possibilita o acesso aos dados sem incosistência, resultando em uma base de dados distribuída que proporciona maior confiabilidade e disponibilidade das informações.
+
+Sempre que há alguma alteração no BD Source, o BD Target será atualizado com as respectivas alterações.
+
+#### IBMInfosphere Data Replication
+
+O IBM InfoSphere Data Replication também pode fornecer disponibilidade contínua para manter réplicas de banco de dados em locais remotos para que seja possível alternar uma carga de trabalho para essas réplicas em segundos, não em horas.
+
+'Sources' e 'Targets' aceitos:
+•	https://www.ibm.com/support/knowledgecenter/SSTRGZ_11.4.0/com.ibm.swg.im.iis.db.repl.intro.doc/topics/iiyrcintsourcestargets.html
+
+Página do produto:
+•	https://www.ibm.com/br-pt/products/infosphere-data-replication
 
 ### PowerBI
 
