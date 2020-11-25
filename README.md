@@ -133,7 +133,18 @@ O WAS é uma plataforma baseada em Java, desenvolvida pela IBM para genrenciar e
 
 Replicação de dados é o processo de armazenar dados em mais de um local. Copiar os mesmos dados de um banco de dados de um servidor para outro servidor possibilita o acesso aos dados sem incosistência, resultando em uma base de dados distribuída que proporciona maior confiabilidade e disponibilidade das informações.
 
-Sempre que há alguma alteração no BD Source, o BD Target será atualizado com as respectivas alterações.
+Para evitar inconsistências, sempre que há alguma alteração no BD Source o BD Target será atualizado com as respectivas alterações.
+
+- Pontos Positivos
+Disponibilidade
+Confiabilidade
+Suporta muitos usuários
+Execução de queries de forma mais rápida
+
+- Pontos Negativos
+Demanda maior espaço de armazenamento, cópias em diferentes localidades exigem mais espaço.
+Torna-se uma tarefa custosa quando grande quantidade de cópias devem ser atualizadas
+
 
 #### IBMInfosphereDataReplication
 
