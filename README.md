@@ -1,4 +1,4 @@
-# Itau_Processo_Seletivo
+# Itau Processo Seletivo
 
 1. [Motivação](#Motivação) 
 2. [Objetivos](#Objetivos)
