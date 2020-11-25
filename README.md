@@ -135,7 +135,7 @@ Replicação de dados é o processo de armazenar dados em mais de um local. Copi
 
 Sempre que há alguma alteração no BD Source, o BD Target será atualizado com as respectivas alterações.
 
-#### IBMInfosphere Data Replication
+#### IBMInfosphereDataReplication
 
 O IBM InfoSphere Data Replication também pode fornecer disponibilidade contínua para manter réplicas de banco de dados em locais remotos para que seja possível alternar uma carga de trabalho para essas réplicas em segundos, não em horas.
 
