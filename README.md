@@ -53,7 +53,7 @@ Esse projeto faz parte do Processo Seletivo da Itaú em parceria com a École 42
 - Como o Sistema A (Distribuído) tem uma rotina de atualização diária dos dados de contratação/cancelamento dos produtos em sua base de dados, havera momentos que a informação ficara defasada, o que pode impactar nas validações e nas geração de relatorios gerenciais/analiticos;
 - As telas do cliente/server são criadas com campos fixos, isso impede maior parametrização, dinamismo e agilidade na oferta de produtos;
 - (O prazo máximo disponibilização da oferta ao cliente, a partir da idealização/cadastro do produto, é muito longo.)
-- O Sistema C (WebSphere) trabalha em back-level (significando que ele é desatualizado, e provavelmente não conta mais com suporte oficial da IBM).
+- O Sistema C (WebSphere) trabalha em back-level (significando que ele é desatualizado, e provavelmente não conta mais com suporte oficial da IBM). Isso causa um risco enorme aos dados do banco e seus clientes ([caso](https://www.agenor.co.uk/was-upgrade-case-study)).
 
 ### Mainframe
 
