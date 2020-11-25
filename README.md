@@ -30,7 +30,7 @@ Esse projeto faz parte do Processo Seletivo da Itaú em parceria com a École 42
 
 ### CadastroDeNovosProdutos
 
-<image alt="New Products" src="proposta/Cadastro de Novos Produtos.pdf" />
+Detalhamos no seguinte documento, como idealizamos o novo processo de cadastro de [novos produtos](https://github.com/vix993/Itau_Processo_Seletivo/blob/main/proposta/Cadastro%20de%20Novos%20Produtos.pdf).
 
 ### FluxoInicial
 
