@@ -197,7 +197,7 @@ De acordo com o alinhamento da equipe, decidimos manter uma estrutura simplista 
 
 Nesse caso, seguimos a recomendação que está na ´[documentação](#https://www.ibm.com/support/knowledgecenter/SSEQTP_8.5.5/com.ibm.websphere.base.iseries.doc/ae/twbs_jaxrs_getstarted.html)´ da WebSphere. No caso as API's seriam desenvolvidas utilizando o padrão JAX-RS, que facilita a criação de serviços web usando esse modelo. Poderiamos utilizar a JAX-RS API ou frameworks que o implementam como Dropwizard ou Jersey.
 
-Com essa estrutura pronto podemos utilizar frameworks como React e React-Native para desenvolver o frontend dos aplicativos. Frameworks escolhidos pelo potencial de crescimento devido ao suporte que tem da communidade open-source e também disponibilidade de desenvolvedores no mercado.
+Com essa estrutura pronta podemos utilizar frameworks como React e React-Native para desenvolver o frontend dos aplicativos. Frameworks escolhidos pelo potencial de crescimento devido ao suporte que tem da communidade open-source e também disponibilidade de desenvolvedores no mercado.
 
 ### ControlM
 
