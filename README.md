@@ -265,3 +265,11 @@ Detalhamos no seguinte documento, como idealizamos o novo processo de contrataç
 ### DisponibilizaçãoDeOfertas
 
 Detalhamos no seguinte documento, como idealizamos o novo processo de disponibilização de [produtos e ofertas](https://github.com/vix993/Itau_Processo_Seletivo/blob/main/proposta/Disponibiliza%C3%A7%C3%A3o%20das%20Ofertas%20de%20Novos%20Produtos%20nos%20Diferentes%20Canais.pdf).
+
+### Conclusão
+
+Ao realizar essa atividade, notamos o quão complexo é mexer com um sistema da magnitude de uma instituição financeira. São muitas variáveis a considerar, como por exemplo, segurança, performance, e escalabilidade. Isso exige um conhecimento extenso dos envolvidos. Para cada componente do sistema, existe uma quantidade enorme de possibilidades e ferramentas. Cada combinação traz consigo um conjunto de vantagens e desvantagens.
+
+Mas com isso agente aprendeu muito, e concerteza é um conhecimento que usaremos mais vezes.
+
+#### *Obrigado!*
