@@ -255,7 +255,7 @@ Com essa estrutura pronta podemos utilizar frameworks como React e React-Native 
 - Adaptamos o fluxo dos dados para evitar possíveis inconsisténcias.
 - Na medida do possível, inserimos tecnologias novas que ao nosso ver complementam a estrutura atual.
 - Encaramos como prioridade inserir o mobile como uma plataforma para receber de forma dinamicas as ofertas e novos produtos.
-- Atualizamos o backend para seguir padrões do mercado.
+- Atualizamos o Sistema C para seguir padrões do mercado.
 
 ### CadastroDeNovosProdutos
 
