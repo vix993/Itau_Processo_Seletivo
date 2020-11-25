@@ -3,9 +3,6 @@
 1. [Motivação](#Motivação) 
 2. [Objetivos](#Objetivos)
 3. [Diagramas](#Diagramas)
-    - [Cadastro de Novos Produtos](#CadastroDeNovosProdutos)
-    - [Contratação de Produtos](#ContrataçãoDeProdutos)
-    - [Disponibilização das Ofertas de Novos Produtos nos Diferentes Canais](#DisponibilizaçãoDeOfertas)
     - [Fluxo Inicial](#FluxoInicial)
     - [Fluxo Novo](#FluxoNovo)
 4. [Estudos](#Estudos)
@@ -16,7 +13,10 @@
     - [Power BI](#PowerBI)
     - [JAX-RS](#JAX-RS)
     - [Control-M](#ControlM)
-10. [Solução](#Solução)
+10. [Soluções](#Soluções)
+    - [Cadastro de Novos Produtos](#CadastroDeNovosProdutos)
+    - [Contratação de Produtos](#ContrataçãoDeProdutos)
+    - [Disponibilização das Ofertas de Novos Produtos nos Diferentes Canais](#DisponibilizaçãoDeOfertas)
 
 ## Motivação
 
@@ -29,18 +29,6 @@ Esse projeto faz parte do Processo Seletivo da Itaú em parceria com a École 42
 - Sugestão de tecnologias e ferramentas que podem ser aplicadas no contexto.
 
 ## Diagramas
-
-### CadastroDeNovosProdutos
-
-Detalhamos no seguinte documento, nossas reflexões sobre o atual sistema e como idealizamos o novo processo de cadastro de [novos produtos](https://github.com/vix993/Itau_Processo_Seletivo/blob/main/proposta/Cadastro%20de%20Novos%20Produtos.pdf).
-
-### ContrataçãoDeProdutos
-
-Detalhamos no seguinte documento, como idealizamos o novo processo de contratação de [produtos](https://github.com/vix993/Itau_Processo_Seletivo/blob/main/proposta/Contratacao%20dos%20produtos%20-%20fluxo%20atual%20e%20proposto.pdf).
-
-### DisponibilizaçãoDeOfertas
-
-Detalhamos no seguinte documento, como idealizamos o novo processo de disponibilização de [produtos e ofertas](https://github.com/vix993/Itau_Processo_Seletivo/blob/main/proposta/Disponibiliza%C3%A7%C3%A3o%20das%20Ofertas%20de%20Novos%20Produtos%20nos%20Diferentes%20Canais.pdf).
 
 ### FluxoInicial
 
@@ -256,6 +244,16 @@ Com essa estrutura pronta podemos utilizar frameworks como React e React-Native 
 
 - Permite análise predictiva do resultados de jobs, facilitando o trabalho de recuperação em casos de falhas, o que também resulta em menores custos de operação.
 
-## Solução
+## Soluções
 
-Qual foi a nossa solução?
+### CadastroDeNovosProdutos
+
+Detalhamos no seguinte documento, nossas reflexões sobre o atual sistema e como idealizamos o novo processo de cadastro de [novos produtos](https://github.com/vix993/Itau_Processo_Seletivo/blob/main/proposta/Cadastro%20de%20Novos%20Produtos.pdf).
+
+### ContrataçãoDeProdutos
+
+Detalhamos no seguinte documento, como idealizamos o novo processo de contratação de [produtos](https://github.com/vix993/Itau_Processo_Seletivo/blob/main/proposta/Contratacao%20dos%20produtos%20-%20fluxo%20atual%20e%20proposto.pdf).
+
+### DisponibilizaçãoDeOfertas
+
+Detalhamos no seguinte documento, como idealizamos o novo processo de disponibilização de [produtos e ofertas](https://github.com/vix993/Itau_Processo_Seletivo/blob/main/proposta/Disponibiliza%C3%A7%C3%A3o%20das%20Ofertas%20de%20Novos%20Produtos%20nos%20Diferentes%20Canais.pdf).
