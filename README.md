@@ -3,7 +3,7 @@
 ## Motivação
 
 Esse projeto faz parte do Processo Seletivo da Itaú em parceria com a École 42 São Paulo.
-!![42logo](https://images.app.goo.gl/x1mfogNbcnoDoSGGA)
+[42logo](https://images.app.goo.gl/x1mfogNbcnoDoSGGA)
 
 ## Objetivos
 
