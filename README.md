@@ -44,9 +44,17 @@ Esse projeto faz parte do Processo Seletivo da Itaú em parceria com a École 42
 
 #### Sugestão de Fluxo novo do sistema
 
-[Edite o diagrama](https://whimsical.com/EaB7kKFpsiKaiRdWUTSwtM)
+O novo fluxo de cadastro de produtos sería dessa forma.
 
-<image alt="flow-provisorio" src="imgs/untitled@1.25x (1).png" />
+<image alt="flow-provisorio" src="imgs/novo fluxo cad prod.png" />
+
+O novo fluxo de contratações e cancelamentos sería dessa forma.
+
+<image alt="flow-provisorio" src="imgs/novo fluxo contrat cancel.png" />
+
+O novo fluxo de oferta de novos produtos seria dessa forma.
+
+<image alt="flow-provisorio" src="imgs/novo fluxo oferta prod.png" />
 
 ## Soluções
 
