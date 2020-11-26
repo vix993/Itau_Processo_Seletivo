@@ -56,7 +56,7 @@ Esse projeto faz parte do Processo Seletivo da Itaú em parceria com a École 42
 - Tentamos extrair o melhor de cada tecnologia existente naquele momento.
 - Adaptamos o fluxo dos dados para evitar possíveis inconsisténcias.
 - Na medida do possível, inserimos tecnologias novas que ao nosso ver complementam a estrutura atual.
-- Encaramos como prioridade inserir o mobile como uma plataforma para receber de forma dinamicas as ofertas e novos produtos.
+- Encaramos como prioridade inserir o mobile como uma plataforma para receber de forma dinamica as ofertas e novos produtos.
 - Atualizamos o Websphere para sair do backlevel.
 
 ### CadastroDeNovosProdutos
