@@ -77,7 +77,7 @@ Detalhamos no seguinte documento, como idealizamos o novo processo de disponibil
 
 ### ContrataçãoDeProdutos
 
-Detalhamos no seguinte documento, como idealizamos o novo processo de [contratação de produtos](https://github.com/vix993/Itau_Processo_Seletivo/blob/main/diagramas_de_sequencia/Contratacao%20dos%20produtos%20-%20fluxo%20atual%20e%20proposto.pdf).
+Detalhamos no seguinte documento, como idealizamos o novo processo de [contratação/cancelamento de produtos](https://github.com/vix993/Itau_Processo_Seletivo/blob/main/diagramas_de_sequencia/Contratacao%20dos%20produtos%20-%20fluxo%20atual%20e%20proposto.pdf).
 
 ### Conclusão
 
