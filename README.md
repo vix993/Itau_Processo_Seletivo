@@ -20,8 +20,8 @@ Esse projeto faz parte do Processo Seletivo da Itaú em parceria com a École 42
 4. [Soluções](#Soluções)
     - [Conceito Inicial](#ConceitoInicial)
     - [Cadastro de Novos Produtos](#CadastroDeNovosProdutos)
-    - [Contratação de Produtos](#ContrataçãoDeProdutos)
     - [Disponibilização das Ofertas de Novos Produtos nos Diferentes Canais](#DisponibilizaçãoDeOfertas)
+    - [Contratação/Cancelamento de Produtos](#ContrataçãoDeProdutos)
     - [Conclusão](#Conclusão)
 5. [Estudos](#Estudos)
     - [Pontos Negativos](#PontosNegativos)
@@ -69,15 +69,15 @@ O novo fluxo de oferta de novos produtos seria dessa forma.
 
 ### CadastroDeNovosProdutos
 
-Detalhamos no seguinte documento, nossas reflexões sobre o atual sistema e como idealizamos o novo processo de cadastro de [novos produtos](https://github.com/vix993/Itau_Processo_Seletivo/blob/main/proposta/Cadastro%20de%20Novos%20Produtos.pdf).
-
-### ContrataçãoDeProdutos
-
-Detalhamos no seguinte documento, como idealizamos o novo processo de contratação de [produtos](https://github.com/vix993/Itau_Processo_Seletivo/blob/main/proposta/Contratacao%20dos%20produtos%20-%20fluxo%20atual%20e%20proposto.pdf).
+Detalhamos no seguinte documento, nossas reflexões sobre o atual sistema e como idealizamos o novo processo de cadastro de [novos produtos](https://github.com/vix993/Itau_Processo_Seletivo/blob/main/diagramas_de_sequencia/Cadastro%20de%20Novos%20Produtos.pdf).
 
 ### DisponibilizaçãoDeOfertas
 
-Detalhamos no seguinte documento, como idealizamos o novo processo de disponibilização de [produtos e ofertas](https://github.com/vix993/Itau_Processo_Seletivo/blob/main/proposta/Disponibiliza%C3%A7%C3%A3o%20das%20Ofertas%20de%20Novos%20Produtos%20nos%20Diferentes%20Canais.pdf).
+Detalhamos no seguinte documento, como idealizamos o novo processo de disponibilização de [produtos e ofertas](https://github.com/vix993/Itau_Processo_Seletivo/blob/main/diagramas_de_sequencia/Disponibilização%20das%20Ofertas%20de%20Novos%20Produtos%20nos%20Diferentes%20Canais.pdf).
+
+### ContrataçãoDeProdutos
+
+Detalhamos no seguinte documento, como idealizamos o novo processo de [contratação de produtos](https://github.com/vix993/Itau_Processo_Seletivo/blob/main/diagramas_de_sequencia/Contratacao%20dos%20produtos%20-%20fluxo%20atual%20e%20proposto.pdf).
 
 ### Conclusão
 
